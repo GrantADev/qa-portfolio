@@ -1,6 +1,6 @@
 QA Portfolio
 
-Welcome to my Game QA Testing Portfolio.
+Welcome to my Game QA Portfolio.
 
 This repository contains my QA documentation, including:
 
